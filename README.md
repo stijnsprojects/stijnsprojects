@@ -32,7 +32,7 @@
 <h2 align="left">Extra</h2>
 <p align="left">
     <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.png" alt="drawio" style="height: 40px;"/></a>
-    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" style="height: 40px;"/></a>
+    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.png" alt="ms365" style="height: 40px;"/></a>
     <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" style="height: 40px;"/></a>
 </p>
 
