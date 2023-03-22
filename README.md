@@ -12,12 +12,12 @@
 <h3 align="left">Skills / Tools</h3>
 <h2 align="left">Engineering</h2>
 <p align="left">
-    <a href="https://www.autodesk.com/products/inventor" target="_blank" rel="noreferrer"> <img src="inventor.svg" alt="inventor" height="40"/></a>
-    <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="cura.svg" alt="cura" height="40"/></a>
-    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.png" alt="solidworks" height="40"/> </a>
-    <a href="https://www.autodesk.com/products/fusion-360" target="_blank" rel="noreferrer"> <img src="fusion360.svg" alt="fusion360" height="40"/> </a>
-    <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="nx.svg" alt="nx" height="40"/> </a>
-    <a href="https://www.autodesk.com/products/autocad" target="_blank" rel="noreferrer"> <img src="autocad.svg" alt="autocad" height="40"/> </a>
+    <a href="https://www.autodesk.com/products/inventor" target="_blank" rel="noreferrer"> <img src="inventor.svg" alt="inventor" style="height: 40px;"/></a>
+    <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="cura.svg" alt="cura" style="height: 40px;"/></a>
+    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.png" alt="solidworks" style="height: 40px;"/> </a>
+    <a href="https://www.autodesk.com/products/fusion-360" target="_blank" rel="noreferrer"> <img src="fusion360.svg" alt="fusion360" style="height: 40px;"/> </a>
+    <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="nx.svg" alt="nx" style="height: 40px;"/> </a>
+    <a href="https://www.autodesk.com/products/autocad" target="_blank" rel="noreferrer"> <img src="autocad.svg" alt="autocad" style="height: 40px;"/> </a>
 </p>
 <h2 align="left">Programming</h2>
 <p align="left">
