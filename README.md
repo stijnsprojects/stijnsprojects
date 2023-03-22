@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img src="youtube.svg" alt="youtube" style="height: 40px;"/></a>
-    <a href="https://instagram.com/stijnsprojects" target="blank"><img src="instagram.svg" alt="instagram" style="height: 40px; width: 40px;"/></a>
+    <a href="https://instagram.com/stijnsprojects" target="blank"><img src="instagram.svg" alt="instagram" style="max-height: 40px; max-width: 40px;"/></a>
     <a href="https://fb.com/stijnsprojects" target="blank"><img src="facebook.svg" alt="facebook" style="height: 40px;"/></a>
     <a href="https://twitter.com/stijnsprojects" target="blank"><img src="twitter.svg" alt="twitter" style="height: 40px;"/></a>
 </p>
