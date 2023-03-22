@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img src="youtube.svg" alt="youtube" style="height: 40px;"/></a>
-    <a href="https://instagram.com/stijnsprojects" target="blank"><img src="instagram.svg" alt="instagram" width="40" height="40" style="max-width: 100%; max-height: 100%; object-fit: contain"/></a>
+    <a href="https://instagram.com/stijnsprojects" target="blank"><img src="instagram.png" alt="instagram" style="height: 40px;"/></a>
     <a href="https://fb.com/stijnsprojects" target="blank"><img src="facebook.svg" alt="facebook" style="height: 40px;"/></a>
     <a href="https://twitter.com/stijnsprojects" target="blank"><img src="twitter.svg" alt="twitter" style="height: 40px;"/></a>
 </p>
@@ -21,7 +21,7 @@
 </p>
 <h2 align="left">Programming</h2>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" style="height: 40px !important;"/></a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.png" alt="python" style="height: 40px;"/></a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="arduino.svg" alt="arduino" style="height: 40px;"/></a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab" style="height: 40px;"/></a> 
     <a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer"> <img src="maple.svg" alt="maple" style="height: 40px;"/></a>
@@ -31,7 +31,7 @@
 </p>
 <h2 align="left">Extra</h2>
 <p align="left">
-    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" style="height: 40px !important;"/></a>
+    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.png" alt="drawio" style="height: 40px;"/></a>
     <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" style="height: 40px;"/></a>
     <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" style="height: 40px;"/></a>
 </p>
