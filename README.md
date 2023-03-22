@@ -1,16 +1,45 @@
-<h1 align="center">Hi 👋, I'm Stijn</h1>
-<h3 align="center">A passionate thinkerer from Belgium</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Passionate thinkerer from Belgium</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stijnsprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stijnsprojects" height="30" width="40" /></a>
-<a href="https://fb.com/stijnsprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stijnsprojects" height="30" width="40" /></a>
-<a href="https://instagram.com/stijnsprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stijnsprojects" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stijnsprojects" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img align="center" src="youtube.svg" alt="youtube" height="40"/></a>
+    <a href="https://instagram.com/stijnsprojects" target="blank"><img align="center" src="instagram.svg" alt="instagram" height="40"/></a>
+    <a href="https://fb.com/stijnsprojects" target="blank"><img align="center" src="facebook.svg" alt="facebook" height="40"/></a>
+    <a href="https://twitter.com/stijnsprojects" target="blank"><img align="center" src="twitter.svg" alt="twitter" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills / Tools</h3>
+<h2 align="left">Engineering</h2>
+<p align="left">
+    <a href="https://www.autodesk.com/products/inventor" target="_blank" rel="noreferrer"> <img src="inventor.svg" alt="inventor" height="40"/></a>
+    <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="cura.svg" alt="cura" height="40"/></a>
+    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="solidworks.png" alt="solidworks" height="40"/> </a>
+    <a href="https://www.autodesk.com/products/fusion-360" target="_blank" rel="noreferrer"> <img src="fusion360.svg" alt="fusion360" height="40"/> </a>
+    <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer"> <img src="nx.svg" alt="nx" height="40"/> </a>
+    <a href="https://www.autodesk.com/products/autocad" target="_blank" rel="noreferrer"> <img src="autocad.svg" alt="autocad" height="40"/> </a>
+</p>
+<h2 align="left">Programming</h2>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" height="40"/></a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="arduino.svg" alt="arduino" height="40"/></a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab" height="40"/></a> 
+    <a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer"> <img src="maple.svg" alt="maple" height="40"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html5.svg" alt="html5" height="40"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css3.svg" alt="css3" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" height="40"/></a>
+</p>
+<h2 align="left">Extra</h2>
+<p align="left">
+    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" height="40"/></a>
+    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" height="40"/></a>
+    <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" height="40"/></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/stijnsprojects"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stijnsprojects" /></a><a href="https://ko-fi.com/stijnsprojects"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="stijnsprojects" /></a></p><br><br>
+<h3 align="left">Support</h3>
+<p>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=9RDTWTXFRXVKW" target="_blank" rel="noopener noreferrer"><img align="left" src="paypal.png" alt="paypal" style="height: 32px; border: 4px solid #fec453; border-radius: 4px; background-color: #fec453; margin-right: 10px;"></a>
+    <a href="https://ko-fi.com/stijnsprojects" target="_blank" rel="noopener noreferrer"><img align="left" src="kofi.png" alt="kofi" style="height: 40px; margin-right: 10px;"></a>
+    <a href="https://www.buymeacoffee.com/stijnsprojects" target="_blank" rel="noopener noreferrer"><img align="left" src="buymeacoffee.png" alt="buymeacoffee" style="height: 40px !important;"></a>
+</p>
+<br><br>
