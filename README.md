@@ -21,19 +21,19 @@
 </p>
 <h2 align="left">Programming</h2>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" height="40"/></a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="arduino.svg" alt="arduino" height="40"/></a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab" height="40"/></a> 
-    <a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer"> <img src="maple.svg" alt="maple" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html5.svg" alt="html5" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css3.svg" alt="css3" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" style="height: 40px !important;"/></a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="arduino.svg" alt="arduino" style="height: 40px;"/></a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab" style="height: 40px;"/></a> 
+    <a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer"> <img src="maple.svg" alt="maple" style="height: 40px;"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html5.svg" alt="html5" style="height: 40px;"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css3.svg" alt="css3" style="height: 40px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" style="height: 40px;"/></a>
 </p>
 <h2 align="left">Extra</h2>
 <p align="left">
-    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" height="40px"/></a>
-    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" height="40px"/></a>
-    <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" height="40px"/></a>
+    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" style="height: 40px !important;"/></a>
+    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" style="height: 40px;"/></a>
+    <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" style="height: 40px;"/></a>
 </p>
 
 <h3 align="left">Support</h3>
