@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img align="center" src="youtube.svg" alt="youtube" height="40"/></a>
-    <a href="https://instagram.com/stijnsprojects" target="blank"><img align="center" src="instagram.svg" alt="instagram" height="40"/></a>
-    <a href="https://fb.com/stijnsprojects" target="blank"><img align="center" src="facebook.svg" alt="facebook" height="40"/></a>
-    <a href="https://twitter.com/stijnsprojects" target="blank"><img align="center" src="twitter.svg" alt="twitter" height="40"/></a>
+    <a href="https://www.youtube.com/c/stijnsprojects" target="blank"><img src="youtube.svg" alt="youtube" height="40"/></a>
+    <a href="https://instagram.com/stijnsprojects" target="blank"><img src="instagram.svg" alt="instagram" height="40"/></a>
+    <a href="https://fb.com/stijnsprojects" target="blank"><img src="facebook.svg" alt="facebook" height="40"/></a>
+    <a href="https://twitter.com/stijnsprojects" target="blank"><img src="twitter.svg" alt="twitter" height="40"/></a>
 </p>
 
 <h3 align="left">Skills / Tools</h3>
@@ -31,9 +31,9 @@
 </p>
 <h2 align="left">Extra</h2>
 <p align="left">
-    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" height="40"/></a>
-    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" height="40"/></a>
-    <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" height="40"/></a>
+    <a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> <img src="drawio.svg" alt="drawio" height="40px"/></a>
+    <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="ms365.svg" alt="ms365" height="40px"/></a>
+    <a href="https://shotcut.org/" target="_blank" rel="noreferrer"> <img src="shotcut.png" alt="shotcut" height="40px"/></a>
 </p>
 
 <h3 align="left">Support</h3>
