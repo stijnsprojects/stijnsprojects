@@ -39,7 +39,7 @@
 <h2 align="left">Support</h2>
 <p>
     <a href="https://www.paypal.com/donate/?hosted_button_id=9RDTWTXFRXVKW" target="_blank" rel="noopener noreferrer"><img align="left" src="paypal.png" alt="paypal" style="height: 40px; margin-right: 10px;"></a>
-    <a href="https://ko-fi.com/stijnsprojects" target="_blank" rel="noopener noreferrer"><img align="left" src="kofi.png" alt="kofi" style="height: 40px; margin-right: 10px;"></a>
-    <a href="https://www.buymeacoffee.com/stijnsprojects" target="_blank" rel="noopener noreferrer"><img align="left" src="buymeacoffee.png" alt="buymeacoffee" style="height: 40px !important;"></a>
+    <!-- <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer"><img align="left" src="kofi.png" alt="kofi" style="height: 40px; margin-right: 10px;"></a> -->
+    <!-- <a href="https://www.buymeacoffee.com" target="_blank" rel="noopener noreferrer"><img align="left" src="buymeacoffee.png" alt="buymeacoffee" style="height: 40px !important;"></a> -->
 </p>
 <br><br>
